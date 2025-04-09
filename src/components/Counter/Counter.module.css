@@ -11,8 +11,9 @@
   font-family: BebasNeue-Regular, Arial, sans-serif;
   font-size: var(--large-font-size);
 }
-.increaseButton,
-.decreaseButton {
+/* specifiy the custom styles for the buttons like this */
+.counterCard .increaseButton,
+.counterCard .decreaseButton {
   min-width: 80px;
   min-height: 80px;
   border-radius: var(--border-radius-small);
