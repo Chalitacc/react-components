@@ -18,6 +18,7 @@ button {
   --text-color: #333333;
   --border-color: grey;
   --errorColor: orangered;
+  --gradientColor: #c3bfa8;
 
   /* Fonts */
   --base-font-size: 1rem;
